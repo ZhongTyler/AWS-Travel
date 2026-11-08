@@ -1,0 +1,10 @@
+node_modules/
+.runtime/
+.test-output/
+dist/
+*.log
+.tmp/
+.git/
+.module-manager/
+__pycache__/
+*.pyc
